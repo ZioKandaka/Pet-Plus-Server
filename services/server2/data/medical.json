@@ -1,0 +1,10 @@
+[
+    {
+        "notes": "Cat was presented with acute onset of lameness in left hind leg. Suspected possible fracture or soft tissue injury. The X-ray revealed a fracture in the distal femur of the left hind leg, with some evidence of bone displacement. There were also some mild degenerative changes seen in the spine, consistent with the cat's age. The cat was diagnosed with a left hind femoral fracture. The recommended treatment plan involves stabilizing the fracture with a splint and strict cage rest for 4-6 weeks, followed by a recheck X-ray to assess healing. Pain management was also prescribed. The cat will need to return for a recheck X-ray in 4-6 weeks to assess healing progress. In addition, the veterinarian advised the owner to monitor the cat's mobility and behavior during the recovery period, and to report any concerns or changes.",
+        "PetId" : 1,
+        "DoctorId": 1,
+        "PetScheduleId" : 1,
+        "PetshopId" : 1
+    } 
+   
+]

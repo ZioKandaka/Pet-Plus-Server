@@ -1,0 +1,164 @@
+[
+    {
+        "name": "X-ray",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190714219638904/dog.png",
+        "minPrice": 100000,
+        "maxPrice" : 500000,
+        "PetshopId" : 1
+    },
+    {
+        "name": "Akupuntur",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190714014105670/acupunture.png",
+        "minPrice": 150000,
+        "maxPrice" : 500000,
+        "PetshopId" : 1
+    },
+    {
+        "name": "Surgery",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190713271713802/surgery.png",
+        "minPrice": 500000,
+        "maxPrice" : 10000000,
+        "PetshopId" : 2
+    },
+    {
+        "name": "Dental",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190713049419868/dental-checkup.png",
+        "minPrice": 150000,
+        "maxPrice" : 800000,
+        "PetshopId" : 2
+    },
+    {
+        "name": "USG",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190712734855252/ultrasound-machine.png",
+        "minPrice": 150000,
+        "maxPrice" : 850000,
+        "PetshopId" :  1
+    },
+    {
+        "name": "Eyes Treatment",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190713477247057/laser-surgery.png",
+        "minPrice": 100000,
+        "maxPrice" : 1000000,
+        "PetshopId" : 1
+    },
+    {
+        "name": "Laboratorium",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190712537710712/blood-test.png",
+        "minPrice": 200000,
+        "maxPrice" : 1000000,
+        "PetshopId" : 2
+    },
+    {
+        "name": "Vaccination",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190713691148319/vaccine.png",
+        "minPrice": 100000,
+        "maxPrice" : 500000,
+        "PetshopId" : 1
+    },
+    {
+        "name": "Laser Akupuntur",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091191854160171079/3067019.png",
+        "minPrice": 200000,
+        "maxPrice" : 500000,
+        "PetshopId" : 2
+    },
+    {
+        "name": "ElektroStimulasi",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091191854160171079/3067019.png",
+        "minPrice": 150000,
+        "maxPrice" : 500000,
+        "PetshopId" : 2
+    },
+    {
+        "name": "Swimming Therapy",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091192667959996446/1893477.png",
+        "minPrice": 100000,
+        "maxPrice" : 300000,
+        "PetshopId" : 2
+    },
+    {
+        "name": "Water Treadmill Therapy",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091192667959996446/1893477.png",
+        "minPrice": 150000,
+        "maxPrice" : 350000,
+        "PetshopId" : 2
+    },
+    {
+        "name": "Treadmill Therapy",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091192667750273054/10146508.png",
+        "minPrice": 100000,
+        "maxPrice" : 200000,
+        "PetshopId" : 2
+    },
+    {
+        "name": "X-ray",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190714219638904/dog.png",
+        "minPrice": 100000,
+        "maxPrice" : 500000,
+        "PetshopId" : 2
+    },
+    {
+        "name": "Akupuntur",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190714014105670/acupunture.png",
+        "minPrice": 150000,
+        "maxPrice" : 500000,
+        "PetshopId" : 2
+    },
+    {
+        "name": "USG",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190712734855252/ultrasound-machine.png",
+        "minPrice": 150000,
+        "maxPrice" : 850000,
+        "PetshopId" :  2
+    },
+    {
+        "name": "Vaccination",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190713691148319/vaccine.png",
+        "minPrice": 100000,
+        "maxPrice" : 500000,
+        "PetshopId" : 2
+    },
+    {
+        "name": "Dental",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190713049419868/dental-checkup.png",
+        "minPrice": 150000,
+        "maxPrice" : 800000,
+        "PetshopId" : 3
+    },
+    {
+        "name": "USG",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190712734855252/ultrasound-machine.png",
+        "minPrice": 150000,
+        "maxPrice" : 850000,
+        "PetshopId" :  3
+    },
+    {
+        "name": "Vaccination",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091190713691148319/vaccine.png",
+        "minPrice": 100000,
+        "maxPrice" : 500000,
+        "PetshopId" : 3
+    },
+    {
+        "name": "veterinary examination",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091241297353904189/2934605.png",
+        "minPrice": 50000,
+        "maxPrice" : 500000,
+        "PetshopId" : 1
+    },
+    {
+        "name": "veterinary examination",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091241297353904189/2934605.png",
+        "minPrice": 100000,
+        "maxPrice" : 500000,
+        "PetshopId" : 2
+    },
+    {
+        "name": "veterinary examination",
+        "serviceLogo" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091241297353904189/2934605.png",
+        "minPrice": 100000,
+        "maxPrice" : 500000,
+        "PetshopId" : 3
+    }
+    
+]

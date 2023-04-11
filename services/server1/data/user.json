@@ -1,0 +1,53 @@
+[
+    {
+        "username": "Pet Vet",
+        "fullName": "admin",
+        "email": "admin@mail.com",
+        "password": "123456",
+        "imgUrl": "https://ik.imagekit.io/PetPlus/petvet.jpg?updatedAt=1680266047068",
+        "role": "owner",
+        "phoneNumber": "081245698745",
+        "address": "Jl. Cideng Timur No.11 H, RT.5/RW.4, Petojo Utara, Gambir, DKI Jakarta, 10130"
+    },
+    {
+        "username": "BobbyFischer",
+        "fullName": "Bobby Fischer",
+        "email": "bobby@mail.com",
+        "password": "123456",
+        "imgUrl": "https://ik.imagekit.io/PetPlus/bobby-fischer-gettyimages-495892222.jpg?updatedAt=1680266047262",
+        "role": "client",
+        "phoneNumber": "081212345678",
+        "address": "Jl. Taman Pd. Indah No.9, RT.9/RW.12, Bintaro, Pesanggrahan, DKI Jakarta, 12230"
+    },
+    {
+        "username": "ArtourIvanov",
+        "fullName": "Artour Ivanov",
+        "email": "artour@mail.com",
+        "password": "123456",
+        "imgUrl": "https://ik.imagekit.io/PetPlus/arteezy.jpg?updatedAt=1680266047147",
+        "role": "client",
+        "phoneNumber": "081355986254",
+        "address": "Pantai Indah Kapuk St Boulevard, Penjaringan, Kemal Muara, DKI Jakarta, 14470"
+    },
+    {
+        "username": "lalisa",
+        "fullName": "Lalisa Manoban",
+        "email": "lalisa@mail.com",
+        "password": "123456",
+        "imgUrl": "https://tinyurl.com/5e2tfudv",
+        "role": "owner",
+        "phoneNumber": "081352388238",
+        "address": "Jl. Ciledug Raya No.35, RT.5/RW.2, Cipulir, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12230"
+    },
+    {
+        "username": "SooHee",
+        "fullName": "Han Soo Hee",
+        "email": "han@mail.com",
+        "password": "123456",
+        "imgUrl": "https://www.themoviedb.org/t/p/w500/lbUJ6vv7dmvGiMH7HRrCarQiUY9.jpg",
+        "role": "owner",
+        "phoneNumber": "08135234668",
+        "address": "Jl. Radio Dalam Raya No.86, RT.:005/RW.:014, Gandaria Utara, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12140"
+    }
+]
+

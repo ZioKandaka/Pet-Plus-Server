@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Dr. Melissa",
+        "imgUrl" : "https://todaysveterinarypractice.com/wp-content/uploads/sites/4/2019/03/Women-in-Vteerinary-Medicine-History.jpg",
+        "gender": "Female",
+        "education" : "Universitas Indonesia",
+        "PetshopId" : 1
+    },
+    {
+        "name": "Dr. Reyhan",
+        "imgUrl" : "https://highlandspethospital.ca/wp-content/uploads/2022/06/Dr.-Greep-1-e1654297562658.jpg",
+        "gender": "Male",
+        "education" : "Universitas Indonesia",
+        "PetshopId" : 1
+    },
+    {
+        "name": "Dr. Amelia",
+        "imgUrl" : "https://bergenvet.com/wp-content/uploads/2021/06/teaneck-nj-veterinarian.jpg",
+        "gender": "Female",
+        "education" : "UGM",
+        "PetshopId" : 2
+    },
+    {
+        "name": "Dr. Vina",
+        "imgUrl" : "https://amherstvethospital.com/wp-content/uploads/2015/11/rsz_cheryl.jpg",
+        "gender": "Female",
+        "education" : "Universitas Indonesia",
+        "PetshopId" : 2
+    },
+    {
+        "name": "Dr. Boy",
+        "imgUrl" : "https://images.ctfassets.net/rt5zmd3ipxai/0stMAHytHj2enLmAroKbh/5e73db26112b9e2c3257c7dbae81ec66/IMG_5395.c50e7600bcc175511c722c4dcc4ddad5.jpg",
+        "gender": "Male",
+        "education" : "Universitas Indonesia",
+        "PetshopId" : 2
+    },
+    {
+        "name": "Dr. Dina",
+        "imgUrl" : "https://cdcssl.ibsrv.net/ibimg/smb/887x1182_80/webmgr/0p/0/p/615711f425586_20210930153730.3300400.jpg.webp",
+        "gender": "Female",
+        "education" : "Universitas Indonesia",
+        "PetshopId" : 3
+    }
+ 
+]

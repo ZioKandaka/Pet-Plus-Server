@@ -1,0 +1,59 @@
+[
+    {
+        "day": "Monday",
+        "time" : "Session 2",
+        "status": "Available",
+        "PetshopId" : 1,
+        "DoctorId" : 1
+    },
+    {
+        "day": "Sunday",
+        "time" : "Session 4",
+        "status": "Unavailable",
+        "PetshopId" : 1,
+        "DoctorId" : 1
+    },
+    {
+        "day": "Friday",
+        "time" : "Session 1",
+        "status": "On Leave",
+        "PetshopId" : 1,
+        "DoctorId" : 1
+    },
+    {
+        "day": "Sunday",
+        "time" : "Session 5",
+        "status": "Unavailable",
+        "PetshopId" : 1,
+        "DoctorId" : 1
+    },
+    {
+        "day": "Tuesday",
+        "time" : "Session 3",
+        "status": "Available",
+        "PetshopId" : 1,
+        "DoctorId" : 2
+    },
+    {
+        "day": "Thusday",
+        "time" : "Session 1",
+        "status": "Available",
+        "PetshopId" : 1,
+        "DoctorId" : 2
+    },
+    {
+        "day": "Friday",
+        "time" : "Session 4",
+        "status": "Available",
+        "PetshopId" : 1,
+        "DoctorId" : 2
+    },
+    {
+        "day": "Sunday",
+        "time" : "Session 1",
+        "status": "Available",
+        "PetshopId" : 1,
+        "DoctorId" : 2
+    }
+   
+]

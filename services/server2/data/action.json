@@ -1,0 +1,15 @@
+[
+    {
+        "document": "https://tinyurl.com/3bp7pbfe",
+        "totalPrice" : 200000,
+        "MedicalRecordId": 1,
+        "ServiceId" : 1
+    }, 
+    {
+        "document": "-",
+        "totalPrice" : 100000,
+        "MedicalRecordId": 1,
+        "ServiceId" : 21
+    }  
+   
+]

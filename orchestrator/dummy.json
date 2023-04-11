@@ -1,0 +1,14 @@
+{
+  "query": "mutation PutUser($fullName: String, $email: String, $password: String, $imgUrl: Upload, $role: String, $phoneNumber: String, $address: String, $userId: ID!, $username: String) {putUser(fullName: $fullName, email: $email, password: $password, imgUrl: $imgUrl, role: $role, phoneNumber: $phoneNumber, address: $address, UserId: $userId, username: $username) {message}}",
+  "variables": {
+    "userId": 18,
+    "username": "bedul",
+    "fullName": "bedul bahy",
+    "email": "bedul@mail.com",
+    "password": "123456",
+    "imgUrl": null,
+    "role": "admin",
+    "phoneNumber": "081341265589",
+    "address": "Bogoor"
+  }
+}

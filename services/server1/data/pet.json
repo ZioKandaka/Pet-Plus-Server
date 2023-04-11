@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Lulu",
+        "imgUrl" : "https://cdn.discordapp.com/attachments/1054692655327613008/1090641498502086667/8060d95b9a2e8109a6bbf08f0de940b7.jpg",
+        "gender": "Female",
+        "species" : "Cat",
+        "breed" : "Golden British Shorthair",
+        "description" : "Lulu is a shorthaired, shy cat.",
+        "weight" : "2 kg",
+        "UserId" : 2
+    },
+    {
+        "name": "Milo",
+        "imgUrl" : "https://cdn.discordapp.com/attachments/1054692655327613008/1090641498787287080/ed4a8c0e8280eebf82c48dea79fd2b2e.jpg",
+        "gender": "Male",
+        "species" : "Dog",
+        "breed" : "Siberian Husky",
+        "description" : "Super Clingy and Sporty",
+        "weight" : "17 kg",
+        "UserId" : 2
+    }, 
+    {
+        "name": "Luna",
+        "imgUrl": "https://cdn.discordapp.com/attachments/1054692655327613008/1090641498187501628/WhatsApp_Image_2023-03-29_at_21.18.57.jpg",
+        "gender": "Female",
+        "species" : "Cat",
+        "breed" : "Munchkin",
+        "description" : "Like Adventure and friendly",
+        "weight" : "1 kg",
+        "UserId" : 3
+    }
+
+]

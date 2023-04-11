@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Pet Vet",
+        "logo" : "https://tinyurl.com/56wra2yy",
+        "address": "Jl. K.H. Mas Mansyur No.8A, RW.6, Karet Tengsin, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10220",
+        "location" : "106.81641538363445,-6.205327465636911",
+        "phoneNumber" : "087882298002",
+        "UserId" : 1
+    },
+    {
+        "name": "Mody Pet's Club & RnD Clinic",
+        "logo" : "https://tinyurl.com/3ubffer9",
+        "address": "Jl. Ciledug Raya No.35, RT.5/RW.2, Cipulir, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12230",
+        "location" : "106.77807920876494,-6.237788211708457",
+        "phoneNumber" : "(021)27088910",
+        "UserId" : 4
+    },
+    {
+        "name": "Pet Avenue",
+        "logo" : "https://tinyurl.com/4fwy34fn",
+        "address": "Jl. Radio Dalam Raya No.86, RT.:005/RW.:014, Gandaria Utara, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12140",
+        "location" : "106.78920751750725,-6.259753678246793",
+        "phoneNumber" : "0812-1212-9775",
+        "UserId" : 5
+    }
+   
+]

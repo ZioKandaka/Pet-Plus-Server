@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Free Vaccine for your lovely Pet",
+        "news" : "Attention all pet owners! Are you worried about the health of your furry friend? Look no further because we have great news for you! Our clinic is now offering FREE vaccinations for your pets! Vaccines are essential to prevent and protect your pets from infectious diseases, which can be fatal or expensive to treat. Our clinic offers a variety of vaccines that can protect your pet from common illnesses such as rabies, distemper, parvovirus, and more. Our highly qualified and experienced veterinarians will administer the vaccines to your pets, ensuring that they receive the best care possible. We use the highest quality vaccines and equipment to ensure your pet's safety and comfort. Don't wait! Protect your pets today by taking advantage of our FREE vaccination offer.",
+        "status": "Active",
+        "imageUrl" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091200141039521802/Pet_Shop_Banner.png",
+        "PetshopId" : 1
+    },
+    {
+        "title": "Puppies Ready to Adopt",
+        "news" : "Looking for a furry new addition to your family? Look no further because we have the cutest puppies available for adoption at our PetShop! Our puppies are raised in a loving and caring environment, and we take great pride in their health and well-being. We have a variety of breeds and sizes to choose from, so whether you're looking for a small lap dog or an active companion for your family, we have the perfect match for you. Choosing to bring a new puppy into your home is a big decision, and we want to make sure that it's a positive experience for both you and your new furry friend. Come visit us today and fall in love with your new companion!",
+        "status": "Active",
+        "imageUrl" : "https://cdn.discordapp.com/attachments/1054692655327613008/1091200141865787422/Gray_Modern_Adopt_Pet_Banner_Landscape.png",
+        "PetshopId" : 1
+    }
+  
+   
+]

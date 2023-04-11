@@ -1,0 +1,30 @@
+npx sequelize-cli db:create
+
+
+===== Models =====
+npx sequelize-cli model:create --name User --attributes username:string,fullName:string,email:string,password:string,imgUrl:string,role:string,phoneNumber:string,address:string
+
+npx sequelize-cli model:create --name Pet --attributes name:string,imgUrl:string,gender:string,species:string,breed:string,description:string,weight:string,UserId:integer
+
+npx sequelize-cli model:create --name PetSchedule --attributes complete:string,details:string,PetId:integer,PetshopId:integer,DoctorScheduleId:integer
+
+npx sequelize-cli model:create --name MedicalRecord --attributes PetId:integer,DoctorId:integer,PetScheduleId:integer,PetshopId:integer
+
+npx sequelize-cli model:create --name Action --attributes document:string,MedicalRecordId:integer,ServiceId:integer
+
+npx sequelize-cli model:create --name Service --attributes name:string,serviceLogo:string,minPrice:integer,maxPrice:integer,PetshopId:integer
+
+npx sequelize-cli model:create --name Doctor --attributes name:string,imgUrl:string,gender:string,education:string,PetshopId:integer
+
+
+npx sequelize-cli model:create --name DoctorSchedule --attributes day:string,time:string,status:string,PetshopId:integer,DoctorId:integer
+
+npx sequelize-cli model:create --name Post --attributes title:string,postDate:string,news:text,status:string,imageUrl:string,PetshopId:integer
+
+npx sequelize-cli model:create --name Petshop --attributes name:string,logo:string,address:string,location:geometry,phoneNumber:string,UserId:integer
+
+====== Seeding ======
+npx sequelize-cli seed:create --name seedUser
+
+npx sequelize-cli seed:create --name seedPet
+
